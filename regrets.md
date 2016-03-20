@@ -6,7 +6,7 @@ I’ve recently been inspired by [Scott Berkun’s](https://twitter.com/berkun) 
 
 Additionally, I’ve always been inspired by [Buster Benson’s](https://twitter.com/buster) dedication to self-reflection and transparency. In particular, Buster’s [Codex Vitae.](https://github.com/busterbenson/public/blob/master/Codex2015.md)
 
-*Note: With full apologies to Buster, I’m inspired to create my own list of beliefs as well. *
+*Note: With full apologies to Buster, I’m inspired to create my own list of beliefs as well.*
 
 I’ve recently decided to marry the two of these ideas (the general idea behind Scott’s quote and Buster’s display of transparency on Github) into a public list of *post mortem* “regrets.” The idea being, of course, that I won’t regret these things if I take action. 
 
