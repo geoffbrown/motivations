@@ -4,7 +4,9 @@ I’ve recently been inspired by [Scott Berkun’s](https://twitter.com/berkun) 
 
 > “Once a week, imagine being on your deathbed (it can be fun: think Mexican Day of the Dead). Ask yourself: what will I regret not having done if I knew I was going to die today? Make a list and get to work.”
 
-Additionally, I’ve always been inspired by [Buster Benson’s](https://twitter.com/buster) dedication to self-reflection and transparency. In particular, Buster’s [Codex Vitae.](https://github.com/busterbenson/public/blob/master/Codex2015.md)[^With full apologies to Buster, I’m inspired to create my own list of beliefs as well.]
+Additionally, I’ve always been inspired by [Buster Benson’s](https://twitter.com/buster) dedication to self-reflection and transparency. In particular, Buster’s [Codex Vitae.](https://github.com/busterbenson/public/blob/master/Codex2015.md)
+
+*Note: With full apologies to Buster, I’m inspired to create my own list of beliefs as well. *
 
 I’ve recently decided to marry the two of these ideas (the general idea behind Scott’s quote and Buster’s display of transparency on Github) into a public list of *post mortem* “regrets.” The idea being, of course, that I won’t regret these things if I take action. 
 
@@ -12,7 +14,9 @@ I’ve also decided that I want to update this list as often as I see fit, but w
 
 # Regrets
 
-If I die today, I’ll most likely regret that I have never done the following (mostly) concrete things[^ A reminder: my aim for this list is to preemptively enumerate dying regrets, not a list of tasks or goals that should live in a to-do list. ]:
+If I die today, I’ll most likely regret that I have never done the following (mostly) concrete things:
+
+*Note: my aim for this list is to preemptively enumerate dying regrets, not a list of tasks or goals that should live in a to-do list.*
 
 ***
 
