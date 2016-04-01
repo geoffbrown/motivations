@@ -26,9 +26,10 @@ If I die today, I’ll most likely regret that I have never done the following (
 - Not having taken more risks and embraced more challenges
 - Not carrying on with a meditation practice
 - Never having lived outside of the USA
-- Not having learned conversational Japanese
-- Not having reminded myself, with regularity, that someday that me, and everyone I know will [eventually die.](https://medium.com/@buster/the-death-bed-game-20cc8d9c7494#.pd10p668g)
+- Never having learned conversational Japanese
+- Not having reminded myself, with regularity, that someday me and everyone I know will [eventually die.](https://medium.com/@buster/the-death-bed-game-20cc8d9c7494#.pd10p668g)
 - Not having worked harder to maintain my friendships over time
+– Not having drank less
 - To care less about what people think of me
 
 ## Work
@@ -45,7 +46,7 @@ If I die today, I’ll most likely regret that I have never done the following (
 
 ## Recreation
 - Not having taken more time off of work
-- Not having gone scuba diving
-- Not having learned how to do basic sailing
+- Never having gone scuba diving
+- Never having learned basic sailing
 
 
