@@ -39,6 +39,7 @@ If I die today, I’ll most likely regret that I have never done the following (
 - Never having spoken at a design conference
 - Not having personally made something that people use on a regular basis
 - Never having started my own company
+- Not writing on a regular basis
 
 ## Travel
 - Not having traveled to all 7+ continents
