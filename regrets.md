@@ -8,7 +8,7 @@ Additionally, I’ve always been inspired by [Buster Benson’s](https://twitter
 
 *Note: With full apologies to Buster, I’m inspired to create my own list of beliefs as well.*
 
-I’ve recently decided to marry the two of these ideas (the general idea behind Scott’s quote and Buster’s display of transparency on Github) into a public list of *post mortem* “regrets.” The idea being, of course, that I won’t regret these things if I take action. 
+I’ve recently decided to marry the two of these ideas (the general idea behind Scott’s quote and Buster’s display of transparency on Github) into a public list of *post mortem* “regrets.” The idea being, of course, that I won’t regret these things if I take action.
 
 I’ve also decided that I want to update this list as often as I see fit, but with the goal of not having this document become too unwieldy. Review will consist of adding and removing items to this list, and I’ll be giving myself a friendly reminder to re-read and update on a regular basis.
 
@@ -33,21 +33,19 @@ If I die today, I’ll most likely regret that I have never done the following (
 - To care less about what people think of me
 
 ## Work
-- Never having finished my damn portfolio website
 - Not having worked harder every day
 - Not becoming known for the work that I produce
+- Not having submitted to a design conference
 - Never having spoken at a design conference
 - Not having personally made something that people use on a regular basis
 - Never having started my own company
-- Not writing on a regular basis
+- Not writing about the work that I do with regularity
 
 ## Travel
 - Not having traveled to all 7+ continents
-- Not having traveled more, generally
+- Not having visited every US state, at least once
 
 ## Recreation
 - Not having taken more time off of work
 - Never having gone scuba diving
 - Never having learned basic sailing
-
-
