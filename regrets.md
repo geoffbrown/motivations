@@ -14,38 +14,31 @@ I’ve also decided that I want to update this list as often as I see fit, but w
 
 # Regrets
 
-If I die today, I’ll most likely regret that I have never done the following (mostly) concrete things:
+If I die today, I’ll most likely regret that I have **not** done the following (mostly) concrete things:
 
 *Note: my aim for this list is to preemptively enumerate dying regrets, not a list of tasks or goals that should live in a to-do list.*
 
 ***
 
-## Personal
-- Not being kinder, more patient, more empathetic and more loving
-- Not having been more daring in daily life
-- Not having taken more risks and embraced more challenges
-- Not carrying on with a meditation practice
-- Never having lived outside of the USA
-- Never having learned conversational Japanese
-- Not having reminded myself, with regularity, that someday me and everyone I know will [eventually die.](https://medium.com/@buster/the-death-bed-game-20cc8d9c7494#.pd10p668g)
-- Not having worked harder to maintain my friendships over time
-- Not having drank less
-- To care less about what people think of me
-
-## Work
-- Not having worked harder every day
-- Not becoming known for the work that I produce
-- Not having submitted to a design conference
-- Never having spoken at a design conference
-- Not having personally made something that people use on a regular basis
-- Never having started my own company
-- Not writing about the work that I do with regularity
-
-## Travel
-- Not having traveled to all 7+ continents
-- Not having visited every US state, at least once
-
-## Recreation
-- Not having taken more time off of work
-- Never having gone scuba diving
-- Never having learned basic sailing
+- Practicing Beginner's Mind within every endeavor of my life
+- Being kinder, more patient, more empathetic and more loving
+- Being more daring in daily life
+- Taking more risks and embracing more challenges
+- Carrying on with a meditation practice
+- Living outside of the USA
+- Learning conversational Japanese
+- Reminding myself, with regularity, that someday me and everyone I know will [eventually die.](https://medium.com/@buster/the-death-bed-game-20cc8d9c7494#.pd10p668g)
+- Having worked harder to maintain my friendships over time
+- Drinking less
+- Caring less about what people think of me
+- Working harder every day
+- Becoming known for the work that I produce
+- Having spoken at a design conference
+- Having personally made something that people use on a regular basis
+- Starting my own company
+- Writing about the work that I do with regularity
+- Travelling to all 7+ continents
+- Visitng every US state, at least once
+- Taking more time off of work
+- Learning the basics of scuba diving
+- Staying lower on my learning curve, and continuously focusing on reinvention
