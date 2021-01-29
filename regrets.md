@@ -1,5 +1,17 @@
 # Preface
 
+*Update: January 2021*
+
+It’s interesting to think that I’m going on 5 years of this little markdown file I’ve once published on the internet. Over the years, I’ve thought about this document a lot, but edited only a little. Just now, I thought it was a nice time to clean things up a bit. 
+
+In the past handful of years, I’ve become a lot more reflective than I have ever been, and I’ve become quite interested in the concept of [“Momento Mori”](https://en.wikipedia.org/wiki/Memento_mori) – the Stoic concept of remembering death. It’s a simple yet profound idea that’s impacted me in many positive ways in recent years. This concept has also woven itself into my ever-deepening interest in Buddhism, where death is regularly considered. 
+\
+ Looking at the passage I’ve outlined 5 years ago from Scott’s book, I’m unsurprised I was moved by this concept of death acting as motivation for making life happen today! At the very least, I’m happy to be a touch consistent. 
+ 
+ > “You could leave life right now. Let that determine what you do and say and think.” – [Marcus Aurelius](https://dailystoic.com/you-could-leave-life-right-now-let-that-determine-what-you-do-and-say-and-think/)
+
+***
+
 I’ve recently been inspired by [Scott Berkun’s](https://twitter.com/berkun) book [The Myths of Innovation.](http://www.amazon.com/dp/1449389627/tag=scottberkunco-20) In particular, the quote at [location 3278](https://raw.githubusercontent.com/geoffbrown/motivations/master/list.png) on the Kindle Ebook that reads:
 
 > “Once a week, imagine being on your deathbed (it can be fun: think Mexican Day of the Dead). Ask yourself: what will I regret not having done if I knew I was going to die today? Make a list and get to work.”
@@ -20,25 +32,27 @@ If I die today, I’ll most likely regret that I have **not** done the following
 
 ***
 
-- Practicing Beginner's Mind within every endeavor of my life
+- Showing Jackie, every day, how much I love her 
 - Being kinder, more patient, more empathetic and more loving
-- Being more daring in daily life
-- Taking more risks and embracing more challenges
-- Carrying on with a meditation practice
-- Living outside of the USA
+- Remembering that, for me, curiosity is key
+- Being ever more present and mindful
+- Living to embrace more of what brings my way with humor
+- Going deeper in my spiritual practice
+- Lessening my identification with things
+- Travelling as much as possible in order to learn as much as I can, through direct experience about the world
+- Not forgetting that I can learn a lot about the world, through direct experience, by observing the things that are right here in front of me.
+- Fighting less, always
+- Letting go of grudges 
 - Learning conversational Japanese
 - Reminding myself, with regularity, that someday me and everyone I know will [eventually die.](https://medium.com/@buster/the-death-bed-game-20cc8d9c7494#.pd10p668g)
-- Having worked harder to maintain my friendships over time
+- Working hard to maintain my friendships
 - Drinking less
-- Caring less about what people think of me
-- Working harder every day
-- Becoming known for the work that I produce
-- Having spoken at a design conference
-- Having personally made something that people use on a regular basis
-- Starting my own company
-- Writing about the work that I do with regularity
-- Travelling to all 7+ continents
-- Visitng every US state, at least once
+- Exercising more
+- Practicing both humility and confidence with appropriate measure
+- Holding up my end of the bargain, whatever the bargain might might
+- Focusing on delivering work that aligns with my values, and provides a sense of meaning, as much as possible.
+- Being more entrepreneurial more often
+- Writing every day
 - Taking more time off of work
-- Learning the basics of scuba diving
+- Spending more time outside, in every way imaginable
 - Staying lower on my learning curve, and continuously focusing on reinvention
