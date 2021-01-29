@@ -36,7 +36,7 @@ If I die today, I’ll most likely regret that I have **not** done the following
 - Being kinder, more patient, more empathetic and more loving
 - Remembering that, for me, curiosity is key
 - Being ever more present and mindful
-- Living to embrace more of what brings my way with humor
+- Living to embrace more of what life brings my way with humor
 - Going deeper in my spiritual practice
 - Lessening my identification with things
 - Travelling as much as possible in order to learn as much as I can, through direct experience about the world
